@@ -1,0 +1,1 @@
+<view class="app" bind:__l="__l"><waterfall-flow list="{{list}}" loading="{{loading}}" data-event-opts="{{[['^click',[['choose']]]]}}" bind:click="__e"></waterfall-flow></view>

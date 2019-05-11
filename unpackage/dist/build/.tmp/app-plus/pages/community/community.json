@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "社区",
+  "usingComponents": {
+    "common-header": "/components/common-header/common-header"
+  }
+}

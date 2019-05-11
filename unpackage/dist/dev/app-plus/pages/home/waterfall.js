@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"app{ height: 100%; }\n",],undefined,{path:"./pages/home/waterfall.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/waterfall.wxml') } }));

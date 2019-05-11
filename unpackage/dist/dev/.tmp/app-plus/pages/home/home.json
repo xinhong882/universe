@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "waterfall-flow": "/components/nairenk-waterfall-flow/nairenk-waterfall-flow",
+    "local-swiper": "/pages/home/component/local-swiper"
+  }
+}

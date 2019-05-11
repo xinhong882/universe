@@ -1,0 +1,1 @@
+<view class="app" bind:__l="__l"><view class="top"><local-swiper></local-swiper></view><view><waterfall-flow list="{{list}}" loading="{{loading}}" data-event-opts="{{[['^click',[['choose']]]]}}" bind:click="__e"></waterfall-flow></view></view>
